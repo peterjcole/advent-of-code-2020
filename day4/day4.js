@@ -1,4 +1,3 @@
-const { captureRejectionSymbol } = require("events")
 const fs = require("fs")
 
 const day4 = (function () {
